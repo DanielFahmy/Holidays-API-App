@@ -1,7 +1,5 @@
 # Holidays-API-App
 
-# Holidays-API-App
-
 A responsive frontend web application that fetches and displays public holiday data from a **REST API**, allowing users to view and filter holidays based on scope.
 
 ---
@@ -32,7 +30,7 @@ The application retrieves holiday data from a public API and dynamically renders
 ---
 
 ## 🌐 Live Demo
-
+👉
 
 ---
 
